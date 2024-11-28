@@ -8,3 +8,6 @@ This is to learn markdown
 ### Three Level Heading
 
 ###### Heading Six
+
+# Bold
+*This text will be bold*
