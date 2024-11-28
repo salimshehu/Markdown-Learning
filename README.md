@@ -16,6 +16,9 @@ This text is not bolded
 _this text is italicised_
 # List
 - Number 1
+   - nested 1
+   - nested 2
+   - nested 3
 - Number 2
 - Number 3
 
