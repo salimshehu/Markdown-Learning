@@ -12,3 +12,5 @@ This is to learn markdown
 # Bold
 **This text will be bold**
 This text is not bolded
+# Italics
+_this text is italicised_
