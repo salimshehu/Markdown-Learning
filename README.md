@@ -14,3 +14,15 @@ This is to learn markdown
 This text is not bolded
 # Italics
 _this text is italicised_
+# List
+- Number 1
+- Number 2
+- Number 3
+
+* Number 1
+* Number 2
+* Number 3
+
++ Number 1
++ Number 2
++ Number 3
