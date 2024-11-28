@@ -10,4 +10,4 @@ This is to learn markdown
 ###### Heading Six
 
 # Bold
-*This text will be bold*
+**This text will be bold**
