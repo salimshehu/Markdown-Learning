@@ -43,3 +43,9 @@ Ordered Lists
 #Images
 
 ![Github dp]("C:\Users\salim\Desktop\1517567181980.jpg")
+
+#Code and Syntac
+
+```python
+
+```bash
