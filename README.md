@@ -36,7 +36,7 @@ Ordered Lists
 3. Three
 4. Four
 
-##Links
+## Links
 
 [Arewa data science website](https://github.com/arewadataScience)
 
@@ -44,8 +44,24 @@ Ordered Lists
 
 ![Github dp]("C:\Users\salim\Desktop\1517567181980.jpg")
 
-#Code and Syntac
+# Code and Syntac
 
-```python
-print("Hello, world!")
-```bash
+
+
+# Tables
+
+|Column 1  | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+
+# Lists
+
+- [ ] Complete
+- [ ] Markdown
+- [ ] Lecture
+
+# Horizontal Line
+---
+***
+
